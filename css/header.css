@@ -31,7 +31,7 @@ body{
 
 @media screen and (max-width:768px){
     body{
-        overflow-x: hidden;
+        overflow: hidden;
     }
 
     .header{
@@ -83,4 +83,16 @@ body{
         opacity: 1;
         transform: translateX(0);
     }
+}
+
+.togle .l1{
+
+}
+
+.togle .l2{
+    
+}
+
+.togle .l3{
+    
 }
